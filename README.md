@@ -1,3 +1,13 @@
+# Fork Changes:
+
+
+- /v1/messages works as a Claude reverse proxy, currently maps claude-opus-4-5 and claude-sonnet-4-5
+- dated slugs
+- Haiku mapped to gem-3-flash
+- Added prompt injection combatting
+- Better code parity
+  (Fixes Roughly basesd on this issue: https://github.com/justlovemaki/AIClient-2-API/pull/209)
+
 <div align="center">
 
 <img src="src/img/logo-mid.webp" alt="logo"  style="width: 128px; height: 128px;margin-bottom: 3px;">
